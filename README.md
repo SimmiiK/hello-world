@@ -1,2 +1,5 @@
 # hello-world
-hello world repository
+
+Hello world!
+
+My name is Simmi, and I like to code.

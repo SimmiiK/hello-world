@@ -2,4 +2,4 @@
 
 Hello world!
 
-My name is Simmi, and i like to code.
+My name is Simmi, and I like to code.
